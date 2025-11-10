@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s035f2r",
+  "description": "https://scrimba.com/s035f2r/s0fda9s1qj/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
